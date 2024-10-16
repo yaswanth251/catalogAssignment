@@ -22,7 +22,6 @@ const ChartComponent = () => {
         backgroundColor: "blue",
         borderColor: "blue",
         borderWidth: 1.4,
-        fill: true,
         pointRadius: 0,
         pointHoverRadius: 5, 
       },
