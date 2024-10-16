@@ -79,7 +79,7 @@ function App() {
           <ChartComponent/>
         </div>
         <div className="gpp">
-          <img src="../gp.jpg" alt="" />
+          <img src="/gp.jpg" alt="" />
         </div>
 
 
