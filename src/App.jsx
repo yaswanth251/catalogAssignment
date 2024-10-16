@@ -76,7 +76,7 @@ function App() {
           <hr id="ab6"/>
         </div>
         <div>
-          <ChartComponent style={{marginLeft:"-5rem"}}/>
+          <ChartComponent/>
         </div>
         <div className="gpp">
           <img src="/gp.jpg" alt="" />
