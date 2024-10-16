@@ -75,7 +75,7 @@ function App() {
           <hr id="ab5"/>
           <hr id="ab6"/>
         </div>
-        <div>
+        <div className="g">
           <ChartComponent/>
         </div>
         <div className="gpp">
