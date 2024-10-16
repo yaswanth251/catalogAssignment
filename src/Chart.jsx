@@ -94,7 +94,7 @@ const ChartComponent = () => {
       <div style={{ position: "absolute", fontSize: "16px", fontWeight: "bold", color: "black", borderRadius: ".4rem", padding: ".2rem", left: "42rem" ,top:"7.8rem",width:"max-content"}}>
         <p style={{color:"white",borderRadius:".3rem",marginLeft:"-1.5rem",marginTop:"-4.8rem",padding:".3rem",backgroundColor:"black"}}>{maxDataPoint}</p>
 
-        <p style={{marginTop:"5rem",backgroundColor:"blue",padding:".3rem",marginLeft:"1rem",borderRadius:".3rem"}}>{lastDataPoint}</p>
+        <p style={{marginTop:"7rem",backgroundColor:"blue",color:"white",padding:".3rem",marginLeft:"-1rem",borderRadius:".3rem"}}>{lastDataPoint}</p>
       </div>
     </div>
   );
