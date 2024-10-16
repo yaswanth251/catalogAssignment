@@ -91,8 +91,8 @@ const ChartComponent = () => {
       </div>
       
       {/* Display the last point coordinates and max Y value */}
-      <div style={{ position: "absolute", fontSize: "16px", fontWeight: "bold", color: "black", borderRadius: ".4rem", padding: ".2rem", left: "40rem" ,top:"7.8rem"}}>
-        <p style={{color:"white",borderRadius:".3rem",marginLeft:"1rem",marginTop:"-4.8rem",padding:".3rem",backgroundColor:"black"}}>{maxDataPoint}</p>
+      <div style={{ position: "absolute", fontSize: "16px", fontWeight: "bold", color: "black", borderRadius: ".4rem", padding: ".2rem", left: "38rem" ,top:"7.8rem"}}>
+        <p style={{color:"white",borderRadius:".3rem",marginLeft:"-1.5rem",marginTop:"-4.8rem",padding:".3rem",backgroundColor:"black"}}>{maxDataPoint}</p>
 
         <p style={{marginTop:"5rem",backgroundColor:"blue",padding:".3rem",marginLeft:"-1rem",borderRadius:".3rem"}}>{lastDataPoint}</p>
       </div>
