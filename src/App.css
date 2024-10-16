@@ -100,6 +100,9 @@
 #week a{
   color: white;
 }
+.hori{
+  margin-left:4rem;
+}
 .hori hr{
   border-style: dashed;
   margin-left: .8rem;
