@@ -63,7 +63,7 @@ function App() {
             <span><a href="#">max</a></span>
           </div>
         </div>
-        <div className="hori">
+        <div className="hori" style={{}}>
           <hr id="hor"/>
           <hr id="ver"/>
         </div>
@@ -76,7 +76,7 @@ function App() {
           <hr id="ab6"/>
         </div>
         <div>
-          <ChartComponent/>
+          <ChartComponent style={{marginLeft:"-5rem"}}/>
         </div>
         <div className="gpp">
           <img src="/gp.jpg" alt="" />
