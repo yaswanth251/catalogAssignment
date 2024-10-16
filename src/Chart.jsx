@@ -84,7 +84,7 @@ const ChartComponent = () => {
   };
 
   return (
-    <div style={{ display: "flex", justifyContent: "center", alignItems: "center", position: "relative", top: "3rem", left: "-2rem" }}>
+    <div style={{ display: "flex", justifyContent: "center", alignItems: "center", position: "relative", top: "3rem", left: "-6rem" }}>
       {/* The Chart */}
       <div style={{ width: "35rem" }}>
         <Line data={chartData} options={options} />
